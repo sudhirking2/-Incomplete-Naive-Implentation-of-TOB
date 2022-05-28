@@ -14,4 +14,4 @@ Run the program serveral times, as it will further create files.
 Once the program successfully loads the theory, it is ready for intended use.
 
 To view documentation, download main.pdf. 
-Browser veiwing doesn't benfit from the hyper linking/targeting functionality. 
+Browser veiwing doesn't benefit from the hyper linking/targeting functionality. 
